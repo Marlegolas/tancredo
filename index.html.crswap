@@ -8,11 +8,11 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header class="cabecalho">
-        <img class="cabecalho-imagem"src="logo.png" alt="Logo IDNOVA">
-        <ul class="cabecalho-lista">
-            <li class="cabecalho-lista-item">Escola</li>
-            <li class="cabecalho-lista-item">Estudante</li>
+    <header class="cabeçalh""">
+        <img class="cabeçalho-imagem"src="logo.png" alt="Logo IDNOVA">
+        <ul>
+            <li>Escola</li>
+            <li>Estudante</li>
         </ul>
     </header>
    
